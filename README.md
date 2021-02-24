@@ -1,5 +1,7 @@
 ### Hi I am Kyle 👋
-#### I love Machine Learning & Data Science 🌱
+#### A novice learner in Tech Field 👨‍💻
+#### Passion for Machine Learning & Data Science 🌱
+#### In progress of filling my fountain ⛲
 
 <img align="left" alt="kyle-lyk's GitHub Stats" src="https://github-readme-stats-git-master-kyle-lyk.vercel.app/api?username=kyle-lyk&theme=tokyonight&show_icons=true&hide_border=true" />
 
@@ -19,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://gist.github.com/rxaviers/7360908
 -->
