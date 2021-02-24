@@ -1,5 +1,5 @@
 ### Hi I am Kyle 👋
-#### A novice learner in Tech Field 👨‍💻
+#### Novice learner in Tech Field 👨‍💻
 #### Passion for Machine Learning & Data Science 🌱
 #### In progress of filling his fountain ⛲
 
