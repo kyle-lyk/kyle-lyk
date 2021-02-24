@@ -1,4 +1,5 @@
 ### Hi I am Kyle 👋
+#### I love Machine Learning & Data Science 🌱
 
 <img align="left" alt="kyle-lyk's GitHub Stats" src="https://github-readme-stats-git-master-kyle-lyk.vercel.app/api?username=kyle-lyk&theme=tokyonight&show_icons=true&hide_border=true" />
 
