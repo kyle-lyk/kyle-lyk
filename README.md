@@ -6,7 +6,7 @@
 <details>
   <summary> <b>Click me 😳<b> </summary>
   
-  Whaddap ( ͡° ͜ʖ ͡°)
+  <b> Whaddap ( ͡° ͜ʖ ͡°) <b> ✨
 </details>
 
 
