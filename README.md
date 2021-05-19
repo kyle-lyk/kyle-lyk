@@ -4,9 +4,9 @@
 #### - In progress of filling my fountain ⛲
 
 <details>
-  <summary> <b>Click me 😳<b> </summary>
+  <summary> <b>Press here for love<b> </summary>
   
-  <b> Whaddap ( ͡° ͜ʖ ͡°) <b> ✨
+  <b> Daily dosage of love achieved ( ͡° ͜ʖ ͡°) ❤️ <b> ✨
 </details>
 
 
