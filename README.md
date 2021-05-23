@@ -1,6 +1,6 @@
 ### Hi I am Kyle 👋
 #### - Novice learner in Tech Field 👨‍💻
-#### - Passion for Machine Learning & Data Science 🌱
+#### - Passion for Machine Learning (Deep Learning) & Data Science 🌱
 #### - In progress of filling my fountain ⛲
 
 <details>
