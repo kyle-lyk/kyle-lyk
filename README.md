@@ -1,12 +1,12 @@
 ### Hi I am Kyle 👋
-#### - Novice learner in Tech Field 👨‍💻
+#### - Novice learner in Tech 👨‍💻
 #### - Passion for Machine Learning (Deep Learning) & Data Science 🌱
 #### - In progress of filling my fountain ⛲
 
 <details>
-  <summary> <b>Press here for love<b> </summary>
+  <summary> <b>Press here<b> </summary>
   
-  <b> Daily dosage of love achieved ( ͡° ͜ʖ ͡°) ❤️ <b> ✨
+  <b> ( ͡° ͜ʖ ͡°) Hi <b> ✨
 </details>
 
 
