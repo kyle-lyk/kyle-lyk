@@ -1,7 +1,7 @@
 ### Hi I am Kyle 👋
 
 #### - Passion for Machine Learning (Deep Learning) & Data Science 🌱
-#### - Currently learning and working on Machine Learning & Web Development projects
+#### - Currently learning and working on Machine Learning & Web Development projects 🛠️
 
 <details>
   <summary> <b>Press here<b> </summary>
