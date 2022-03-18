@@ -1,13 +1,8 @@
-### Hi I am Kyle 👋
+### Kyle, Computer Science Student
 
-#### - Passion for Machine Learning (Deep Learning) & Data Science 🌱
-#### - Currently learning and working on Machine Learning & Web Development projects 🛠️
+#### - Great interest in Machine Learning & Data Science
+#### - Working on web development projects
 
-<details>
-  <summary> <b>Press here<b> </summary>
-  
-  <b> ( ͡° ͜ʖ ͡°) Hi <b> ✨
-</details>
 
 
 <img align="left" alt="kyle-lyk's GitHub Stats" src="https://github-readme-stats-git-master-kyle-lyk.vercel.app/api?username=kyle-lyk&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" />
