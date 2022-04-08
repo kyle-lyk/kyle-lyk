@@ -1,7 +1,7 @@
 ### Kyle, Computer Science Student
 
 #### - Great interest in Machine Learning & Data Science.
-#### - This is second line.
+#### - This is second point.
 
 
 
