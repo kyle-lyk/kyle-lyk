@@ -1,7 +1,8 @@
-### Hi, It's Kyle. BCS, Data Science Student from MMU.
+### Hi, It's Kyle. A BCS, Data Science Student.
 
-#### - Great interest in Machine Learning & Data Science.
-#### - Repo here are mostly some of my notable assignment projects or fun projects to explore different things.
+#### - Repo here consist of: 
+#### - Some of my presentable university assignment projects 
+#### - Some fun projects to explore different things (Mostly ML related.).
 
 <img align="left" alt="kyle-lyk's GitHub Stats" src="https://github-readme-stats-git-master-kyle-lyk.vercel.app/api?username=kyle-lyk&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" />
 
