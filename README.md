@@ -1,8 +1,8 @@
-### Hi, It's Kyle. A BCS, Data Science Student.
+### Hi, It's Kyle.
 
-#### - Repo here consist of: 
-#### - Some of my presentable university assignment projects 
-#### - Some fun projects to explore different things (Mostly ML related.).
+- 🌱 I’m from a CS in Data Science background.
+- 🔭 I’m currently working on various ML Projects. 
+- 📫 How to reach me: kyle.yk[at]outlook{dot}.com.
 
 <img align="left" alt="kyle-lyk's GitHub Stats" src="https://github-readme-stats-git-master-kyle-lyk.vercel.app/api?username=kyle-lyk&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" />
 
