@@ -2,7 +2,7 @@
 
 - 🌱 I enjoy working with Machine Learning & Data Science projects.
 - 💡 Co-founded [CodeNection](https://www.instagram.com/code_nection) & Undergrad Research @ [ViPr Lab](https://viprlab.github.io/).
-- 🔭 Previously worked as Data Scientist Intern @ [Dell](https://www.dell.com/en-my), Research Intern @ [NCCU (Taiwan)](https://ee.ccu.edu.tw/).
+- 🔭 Previously worked as Software Engineer Intern @ [Dell](https://www.dell.com/en-my), Research Intern @ [NCCU (Taiwan)](https://ee.ccu.edu.tw/).
 - 📫 Feel free to reach out through my contacts in my profile for any inquiries!
 
 <!-- <img align="left" alt="kyle-lyk's GitHub Stats" src="https://github-readme-stats-git-master-kyle-lyk.vercel.app/api?username=kyle-lyk&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" /> -->
