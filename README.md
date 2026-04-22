@@ -1,10 +1,10 @@
-### @Kyle-Lim here,
+### Hi - Kyle here,
 
 - 🌱 I enjoy working with Machine Learning & Data Science projects.
 - 👾 Currently a Data Scientist @ [Moneylion](https://www.moneylion.com/) by [Gen Digital](https://www.gendigital.com/us/en/).
 - 🔭 Previously intern as a Software Engineer @ [Dell](https://www.dell.com/en-my), Visiting Researcher @ [NCCU (Taiwan)](https://ee.ccu.edu.tw/).
 - 💡 Co-founded [CodeNection](https://www.instagram.com/code_nection) & Undergrad Research @ [ViPr Lab](https://viprlab.github.io/).
-- 📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kyle-lyk/) for any inquiries!
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/kyle-lyk/) for any inquiries!
 
 <!-- <img align="left" alt="kyle-lyk's GitHub Stats" src="https://github-readme-stats-git-master-kyle-lyk.vercel.app/api?username=kyle-lyk&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" /> -->
 
