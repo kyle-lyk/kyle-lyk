@@ -2,7 +2,7 @@
 
 - 🌱 I enjoy working with Machine Learning & Data Science projects.
 - 👾 Currently a Data Scientist @ [Moneylion](https://www.moneylion.com/) by [Gen Digital](https://www.gendigital.com/us/en/).
-- 🔭 Previously intern as a Software Engineer @ [Dell](https://www.dell.com/en-my), Visiting Researcher @ [NCCU (Taiwan)](https://ee.ccu.edu.tw/).
+- 🔭 Previously intern as a Software Engineer @ [Dell](https://www.dell.com/en-my), Visiting Researcher @ [NCCU](https://ee.ccu.edu.tw/).
 - 💡 Co-founded [CodeNection](https://www.instagram.com/code_nection) & Undergrad Research @ [ViPr Lab](https://viprlab.github.io/).
 - 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/kyle-lyk/) for any inquiries!
 
